@@ -1,0 +1,3 @@
+Frame: 557
+Normal Impulse: 65.678955078125, -0.0002779486821964383, 0.0
+Other Actor: static.building
